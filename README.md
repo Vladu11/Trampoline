@@ -8,4 +8,4 @@ Can be used for fun in Pocketmine-MP servers!
   - Customize the power with which the player is thrown in the air
   - Enable / Disable slime particles
   - Available for everyone to use! (no bulky permissions)
-  - Compatible with the latest API (3.1.4)
+  - Compatible with the latest API 3.0.0 - 3.1.4
