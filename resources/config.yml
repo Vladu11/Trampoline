@@ -1,0 +1,11 @@
+# Trampoline Config file.
+# Made by Vladu11.
+
+# Trampoline Block ID
+Block: 165
+
+# Power
+Power: 0.7
+
+# Enable or Disable Slime Particle.
+Particle: true
