@@ -9,4 +9,4 @@ Can be used for fun in Pocketmine-MP servers!
   - [x] Enable / Disable slime particles
   - [x] Available for everyone to use! (no bulky permissions)
   - [x] Compatible with the latest API 3.0.0 - 3.1.4
-  - [ ] Disable player fall damage
+  - [ ] Disable player fall damage (You can use the Worlds plugin to disable world fall damage) https://poggit.pmmp.io/p/Worlds/2.0.3
